@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Test Application Project</string>
+
+    <!--Widgets-->
+    <string name="nav_drawer_open">El menú de navegación está abierto</string>
+    <string name="nav_drawer_close">El menú de navegación está cerrado</string>
+    <string name="menu_about">Acerca de</string>
 </resources>
